@@ -36,5 +36,7 @@ Facing an uncertain future and confronting the ghosts of his past, Maverick is d
 
 [Rotten Tomatoes for Top Gun: Maverick](https://www.rottentomatoes.com/m/top_gun_maverick)
 
-`System.out.println("Top Gun: Maverick was released in 2022");`
+```java
+System.out.println("Top Gun: Maverick was released in 2022");
+```
 
